@@ -3,7 +3,7 @@
 Desenvolvedor de Software focado em criar soluções eficientes e com excelente experiência para o usuário.
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/enzo-campos-469743229/" target="_blank">
+  <a href="https://www.linkedin.com/in/enzo-cmyk/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Enzo" />
   </a>
   <a href="https://www.instagram.com/enzo.campos0/" target="_blank">
@@ -13,7 +13,7 @@ Desenvolvedor de Software focado em criar soluções eficientes e com excelente 
 
 ## 🚀 Sobre o meu momento atual
 
-
+- 💼 Dedico meu foco principal ao desenvolvimento do **Finora**.
 - 📱 O Finora é uma plataforma de gestão financeira construída com uma visão *mobile-native* rigorosa, garantindo uma experiência fluida para dashboards, controle de contas, transações, investimentos e orçamentos.
 - 💡 Tenho forte interesse em design de interfaces modernas e na criação de fluxos de automação.
 - 🎓 Sempre buscando evoluir, aplicando meus conhecimentos para tornar o Finora cada vez mais robusto.
@@ -51,5 +51,5 @@ Desenvolvedor de Software focado em criar soluções eficientes e com excelente 
 ## 📈 Minhas Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzo-cmyk&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </div>
